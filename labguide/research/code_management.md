@@ -37,6 +37,7 @@ an open source license.
     permissive licenses such as MIT or Apache, but other licenses may be
     used (e.g. in collaborative projects that use GPL-style licenses).
     - If code is used from other projects, the licensing requirements for that code should be obeyed.
+    - Check out this [resource](https://choosealicense.com/) to decide on which license to use. 
 - A Github release should be generated for code related to any paper submission, containing the exact code used to implement all of the
 included analyses for the submitted version.   
 - The Github repository should be
